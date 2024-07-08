@@ -1,0 +1,43 @@
+Array va uning metodlari.
+
+
+-- Data type larga chuqurroq kirib yodlash.  --
+
+metodlar bir necha turga bo'linadi.
+
+1. bazilari bor qiymatni o'zgartiradi.
+2. qolganlari chaqirilganda yangi qiymat qaytaradi.
+
+
+forEach is frequently used method.
+
+types of for in javascript:
+   forEach,
+   for
+   for of
+   for in
+   find
+
+callback functions - ulardan ko'p foydalanamiz.
+
+arrayning map va filter metodlari.
+
+
+
+dive deep ones:
+
+- sort method.
+- map and filter method.
+- some and every.
+- forEach, other forms of for.
+- splice & slice.
+- flat.
+- concat.
+- rest and spread operator.
+- types of function (arrow and callback and anonymous function)
+
+
+
+- find and findIndex
+
+
